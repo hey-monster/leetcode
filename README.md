@@ -12,4 +12,4 @@ one question one day <br>
 0007|[Reverse Integer](https://github.com/hey-monster/leetcode/issues/5)|简单
 0008|[String to Integer (atoi)](https://github.com/hey-monster/leetcode/issues/7)|中等
 0009|[Palindrome Number](https://github.com/hey-monster/leetcode/issues/6)|简单
-
+0101|[Symmetric Tree](https://github.com/hey-monster/leetcode/issues/10)|简单
