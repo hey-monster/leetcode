@@ -21,4 +21,4 @@ one question one day <br>
 
 序号|关键词
 ---|:---
-0101|[Symmetric Tree](https://github.com/hey-monster/leetcode/issues/16)
+K001|[队列和广度优先](https://github.com/hey-monster/leetcode/issues/16)
