@@ -15,7 +15,7 @@ one question one day <br>
 0011|[Container With Most Water](https://github.com/hey-monster/leetcode/issues/12)|中等
 0012|[Integer to Roman](https://github.com/hey-monster/leetcode/issues/14)|中等
 0013|[Roman to Integer](https://github.com/hey-monster/leetcode/issues/11)|简单
-0014|[Longest Common Prefix](https://github.com/hey-monster/leetcode/issues/11)|简单
+0014|[Longest Common Prefix](https://github.com/hey-monster/leetcode/issues/18)|简单
 0027|[Remove Element](https://github.com/hey-monster/leetcode/issues/13)|简单
 0101|[Symmetric Tree](https://github.com/hey-monster/leetcode/issues/10)|简单
 0200|[Number of Islands](https://github.com/hey-monster/leetcode/issues/17)|中等*
