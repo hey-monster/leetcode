@@ -20,6 +20,7 @@ one question one day <br>
 0027|[Remove Element](https://github.com/hey-monster/leetcode/issues/13)|简单
 0035|[search-insert-position](https://github.com/hey-monster/leetcode/issues/21)|简单
 0038|[Count and Say](https://github.com/hey-monster/leetcode/issues/20)|简单
+0050|[powx-n](https://github.com/hey-monster/leetcode/issues/22)|中等
 0101|[Symmetric Tree](https://github.com/hey-monster/leetcode/issues/10)|简单
 0200|[Number of Islands](https://github.com/hey-monster/leetcode/issues/17)|中等*
 0622|[Design Circular Queue](https://github.com/hey-monster/leetcode/issues/15)|中等
