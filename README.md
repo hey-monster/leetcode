@@ -24,6 +24,8 @@ one question one day <br>
 0101|[Symmetric Tree](https://github.com/hey-monster/leetcode/issues/10)|简单
 0200|[Number of Islands](https://github.com/hey-monster/leetcode/issues/17)|中等*
 0622|[Design Circular Queue](https://github.com/hey-monster/leetcode/issues/15)|中等
+1114|[Symmetric Tree](https://github.com/hey-monster/leetcode/issues/23)|简单
+
 
 序号|关键词
 ---|:---
