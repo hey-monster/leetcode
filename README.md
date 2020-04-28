@@ -24,6 +24,7 @@ one question one day <br>
 0070|[Climbing Stairs](https://github.com/hey-monster/leetcode/issues/25)|简单
 0088|[Merge Sorted Array](https://github.com/hey-monster/leetcode/issues/24)|简单
 0101|[Symmetric Tree](https://github.com/hey-monster/leetcode/issues/10)|简单
+0128|[Longest Consecutive Sequence]()|困难
 0200|[Number of Islands](https://github.com/hey-monster/leetcode/issues/17)|中等*
 0622|[Design Circular Queue](https://github.com/hey-monster/leetcode/issues/15)|中等
 0765|[Couples Holding Hands]()|困难
