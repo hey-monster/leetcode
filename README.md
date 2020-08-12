@@ -26,6 +26,7 @@ one question one day <br>
 0101|[Symmetric Tree](https://github.com/hey-monster/leetcode/issues/10)|简单
 0128|[Longest Consecutive Sequence]()|困难
 0200|[Number of Islands](https://github.com/hey-monster/leetcode/issues/17)|中等*
+0344|[Reverse String]()|简单
 0622|[Design Circular Queue](https://github.com/hey-monster/leetcode/issues/15)|中等
 0765|[Couples Holding Hands]()|困难
 1114|[Symmetric Tree](https://github.com/hey-monster/leetcode/issues/23)|简单
