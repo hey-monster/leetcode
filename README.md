@@ -32,7 +32,7 @@ one question one day <br>
 0867|[Transpose Matrix](https://github.com/hey-monster/leetcode/issues/27)|简单
 0977|[Squares of a Sorted Array](https://github.com/hey-monster/leetcode/issues/28)|简单
 1114|[Symmetric Tree](https://github.com/hey-monster/leetcode/issues/23)|简单
-
+16.26|[Calculator LCCI](https://github.com/hey-monster/leetcode/issues/29)|中等
 序号|关键词
 ---|:---
 K001|[队列和广度优先](https://github.com/hey-monster/leetcode/issues/16)
