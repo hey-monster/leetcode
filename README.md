@@ -36,6 +36,7 @@ one question one day <br>
 1535|[Find the Winner of an Array Game](https://github.com/hey-monster/leetcode/issues/31)|中等
 1552|[Magnetic Force Between Two Balls](https://github.com/hey-monster/leetcode/issues/30)|中等
 16.26|[Calculator LCCI](https://github.com/hey-monster/leetcode/issues/29)|中等
+17.10|[主要元素](https://github.com/hey-monster/leetcode/issues/33)|简单
 序号|关键词
 ---|:---
 K001|[队列和广度优先](https://github.com/hey-monster/leetcode/issues/16)
