@@ -4,7 +4,7 @@ one question one day <br>
 ====
 序号|题目|难度|考点
 ---|:---|---|---:
-0001|[Two Sum](https://github.com/hey-monster/leetcode/issues/38)|简单
+0001|[Two Sum](https://github.com/hey-monster/leetcode/issues/38)|简单|哈希表
 0002|[Add Two Numbers](https://github.com/hey-monster/leetcode/blob/master/code/0002.Add%20Two%20Numbers.cpp)|中等
 0003|[Longest Substring Without Repeating Characters](https://github.com/hey-monster/leetcode/issues/3)|中等
 0005|[Longest Palindromic Substring](https://github.com/hey-monster/leetcode/issues/8)|中等
@@ -42,6 +42,7 @@ one question one day <br>
 1552|[Magnetic Force Between Two Balls](https://github.com/hey-monster/leetcode/issues/30)|中等
 16.26|[Calculator LCCI](https://github.com/hey-monster/leetcode/issues/29)|中等
 17.10|[主要元素](https://github.com/hey-monster/leetcode/issues/33)|简单
+17.21|[直方图的水量](https://github.com/hey-monster/leetcode/issues/41)|困难|数组
 1736|[替换隐藏数字得到的最晚时间](https://github.com/hey-monster/leetcode/issues/39)|简单|分类处理
 序号|关键词
 ---|:---
