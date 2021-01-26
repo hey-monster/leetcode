@@ -2,8 +2,8 @@
 one question one day <br>
 目录
 ====
-序号|题目|难度
----|:---|---:
+序号|题目|难度|考点
+---|:---|---|---:
 0001|[Two Sum](https://github.com/hey-monster/leetcode/issues/38)|简单
 0002|[Add Two Numbers](https://github.com/hey-monster/leetcode/blob/master/code/0002.Add%20Two%20Numbers.cpp)|中等
 0003|[Longest Substring Without Repeating Characters](https://github.com/hey-monster/leetcode/issues/3)|中等
@@ -28,21 +28,21 @@ one question one day <br>
 0200|[Number of Islands](https://github.com/hey-monster/leetcode/issues/17)|中等
 0344|[Reverse String](https://github.com/hey-monster/leetcode/issues/26)|简单
 0463|[岛屿的周长](https://github.com/hey-monster/leetcode/issues/34)|简单
-0547|[省份数量](https://github.com/hey-monster/leetcode/issues/40)|中等
+0547|[省份数量](https://github.com/hey-monster/leetcode/issues/40)|中等|并查集
 0622|[Design Circular Queue](https://github.com/hey-monster/leetcode/issues/15)|中等
 0765|[Couples Holding Hands]()|困难
 0809|[Expressive Words](https://github.com/hey-monster/leetcode/issues/32)|中等
 0867|[Transpose Matrix](https://github.com/hey-monster/leetcode/issues/27)|简单
-0959|[由斜杠划分区域](https://github.com/hey-monster/leetcode/issues/36)|中等
+0959|[由斜杠划分区域](https://github.com/hey-monster/leetcode/issues/36)|中等|并查集
 0977|[Squares of a Sorted Array](https://github.com/hey-monster/leetcode/issues/28)|简单
 1114|[Symmetric Tree](https://github.com/hey-monster/leetcode/issues/23)|简单
-1128|[等价多米诺骨牌对的数量](https://github.com/hey-monster/leetcode/issues/37)|简单
+1128|[等价多米诺骨牌对的数量](https://github.com/hey-monster/leetcode/issues/37)|简单|二元组、哈希
 1438|[绝对差不超过限制的最长连续子数组](https://github.com/hey-monster/leetcode/issues/35)|中等
 1535|[Find the Winner of an Array Game](https://github.com/hey-monster/leetcode/issues/31)|中等
 1552|[Magnetic Force Between Two Balls](https://github.com/hey-monster/leetcode/issues/30)|中等
 16.26|[Calculator LCCI](https://github.com/hey-monster/leetcode/issues/29)|中等
 17.10|[主要元素](https://github.com/hey-monster/leetcode/issues/33)|简单
-1736|[替换隐藏数字得到的最晚时间](https://github.com/hey-monster/leetcode/issues/39)|简单
+1736|[替换隐藏数字得到的最晚时间](https://github.com/hey-monster/leetcode/issues/39)|简单|分类处理
 序号|关键词
 ---|:---
 K001|[队列和广度优先](https://github.com/hey-monster/leetcode/issues/16)
