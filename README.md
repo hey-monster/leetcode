@@ -40,6 +40,7 @@ one question one day <br>
 1438|[绝对差不超过限制的最长连续子数组](https://github.com/hey-monster/leetcode/issues/35)|中等
 1535|[Find the Winner of an Array Game](https://github.com/hey-monster/leetcode/issues/31)|中等
 1552|[Magnetic Force Between Two Balls](https://github.com/hey-monster/leetcode/issues/30)|中等
+1576|[替换所有的问号](https://github.com/hey-monster/leetcode/issues/42)|简单|字符串处理
 16.26|[Calculator LCCI](https://github.com/hey-monster/leetcode/issues/29)|中等
 17.10|[主要元素](https://github.com/hey-monster/leetcode/issues/33)|简单
 17.21|[直方图的水量](https://github.com/hey-monster/leetcode/issues/41)|困难|数组
