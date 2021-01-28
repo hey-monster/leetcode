@@ -18,6 +18,7 @@ one question one day <br>
 0014|[Longest Common Prefix](https://github.com/hey-monster/leetcode/issues/18)|简单
 0015|[3Sum](https://github.com/hey-monster/leetcode/issues/19)|中等
 0027|[Remove Element](https://github.com/hey-monster/leetcode/issues/13)|简单
+0032|[最长有效括号](https://github.com/hey-monster/leetcode/issues/43)|困难|动态规划、栈
 0035|[search-insert-position](https://github.com/hey-monster/leetcode/issues/21)|简单
 0038|[Count and Say](https://github.com/hey-monster/leetcode/issues/20)|简单
 0050|[powx-n](https://github.com/hey-monster/leetcode/issues/22)|中等
