@@ -28,6 +28,7 @@ one question one day <br>
 0128|[Longest Consecutive Sequence]()|困难
 0200|[Number of Islands](https://github.com/hey-monster/leetcode/issues/17)|中等
 0344|[Reverse String](https://github.com/hey-monster/leetcode/issues/26)|简单
+0459|[重复的子字符串](https://github.com/hey-monster/leetcode/issues/44)|简单
 0463|[岛屿的周长](https://github.com/hey-monster/leetcode/issues/34)|简单
 0547|[省份数量](https://github.com/hey-monster/leetcode/issues/40)|中等|深度/广度遍历、并查集
 0622|[Design Circular Queue](https://github.com/hey-monster/leetcode/issues/15)|中等
