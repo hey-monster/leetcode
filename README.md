@@ -27,6 +27,7 @@ one question one day <br>
 0088|[Merge Sorted Array](https://github.com/hey-monster/leetcode/issues/24)|简单
 0101|[Symmetric Tree](https://github.com/hey-monster/leetcode/issues/10)|简单
 0128|[Longest Consecutive Sequence]()|困难
+0198|[打家劫舍](https://github.com/hey-monster/leetcode/issues/47)|中等|动态规划，其他做法？
 0200|[Number of Islands](https://github.com/hey-monster/leetcode/issues/17)|中等
 0344|[Reverse String](https://github.com/hey-monster/leetcode/issues/26)|简单
 0459|[重复的子字符串](https://github.com/hey-monster/leetcode/issues/44)|简单|字符串、枚举、KMP算法（待）
