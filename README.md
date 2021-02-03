@@ -31,6 +31,7 @@ one question one day <br>
 0200|[Number of Islands](https://github.com/hey-monster/leetcode/issues/17)|中等
 0300|[最长递增子序列](https://github.com/hey-monster/leetcode/issues/49)|中等|动态规划、贪心 + 二分查找？
 0344|[Reverse String](https://github.com/hey-monster/leetcode/issues/26)|简单
+0403|[青蛙过河](https://github.com/hey-monster/leetcode/issues/50)|困难|动态规划，其他方法？
 0459|[重复的子字符串](https://github.com/hey-monster/leetcode/issues/44)|简单|字符串、枚举、KMP算法（待）
 0463|[岛屿的周长](https://github.com/hey-monster/leetcode/issues/34)|简单
 0474|[一和零](https://github.com/hey-monster/leetcode/issues/48)|中等|动态规划、背包问题
