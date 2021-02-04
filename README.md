@@ -38,6 +38,7 @@ one question one day <br>
 0547|[省份数量](https://github.com/hey-monster/leetcode/issues/40)|中等|深度/广度遍历、并查集
 0622|[Design Circular Queue](https://github.com/hey-monster/leetcode/issues/15)|中等
 0628|[三个数的最大乘积](https://github.com/hey-monster/leetcode/issues/51)|简单|排序、优化
+0643|[子数组最大平均数 I](https://github.com/hey-monster/leetcode/issues/52)|简单|滑动窗口、数组、动态规划
 0765|[Couples Holding Hands]()|困难
 0809|[Expressive Words](https://github.com/hey-monster/leetcode/issues/32)|中等
 0867|[Transpose Matrix](https://github.com/hey-monster/leetcode/issues/27)|简单
