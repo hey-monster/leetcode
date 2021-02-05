@@ -21,6 +21,7 @@ one question one day <br>
 0032|[最长有效括号](https://github.com/hey-monster/leetcode/issues/43)|困难|动态规划、栈
 0035|[search-insert-position](https://github.com/hey-monster/leetcode/issues/21)|简单
 0038|[Count and Say](https://github.com/hey-monster/leetcode/issues/20)|简单
+0042|[接雨水](https://github.com/hey-monster/leetcode/issues/54)|困难|双指针
 0043|[字符串相乘](https://github.com/hey-monster/leetcode/issues/46)|中等|???
 0050|[powx-n](https://github.com/hey-monster/leetcode/issues/22)|中等
 0070|[Climbing Stairs](https://github.com/hey-monster/leetcode/issues/25)|简单
