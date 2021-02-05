@@ -36,6 +36,7 @@ one question one day <br>
 0463|[岛屿的周长](https://github.com/hey-monster/leetcode/issues/34)|简单
 0474|[一和零](https://github.com/hey-monster/leetcode/issues/48)|中等|动态规划、背包问题
 0547|[省份数量](https://github.com/hey-monster/leetcode/issues/40)|中等|深度/广度遍历、并查集
+0605|[种花问题](https://github.com/hey-monster/leetcode/issues/53)|简单|贪心算法、分类
 0622|[Design Circular Queue](https://github.com/hey-monster/leetcode/issues/15)|中等
 0628|[三个数的最大乘积](https://github.com/hey-monster/leetcode/issues/51)|简单|排序、优化
 0643|[子数组最大平均数 I](https://github.com/hey-monster/leetcode/issues/52)|简单|滑动窗口、数组、动态规划
