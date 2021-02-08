@@ -47,6 +47,7 @@ one question one day <br>
 0867|[Transpose Matrix](https://github.com/hey-monster/leetcode/issues/27)|简单
 0959|[由斜杠划分区域](https://github.com/hey-monster/leetcode/issues/36)|中等|并查集
 0977|[Squares of a Sorted Array](https://github.com/hey-monster/leetcode/issues/28)|简单
+0978|[最长湍流子数组](https://github.com/hey-monster/leetcode/issues/56)|中等|动态规划、滑动窗口？
 1114|[Symmetric Tree](https://github.com/hey-monster/leetcode/issues/23)|简单
 1128|[等价多米诺骨牌对的数量](https://github.com/hey-monster/leetcode/issues/37)|简单|二元组、哈希
 1438|[绝对差不超过限制的最长连续子数组](https://github.com/hey-monster/leetcode/issues/35)|中等
