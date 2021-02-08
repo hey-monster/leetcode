@@ -50,6 +50,7 @@ one question one day <br>
 0978|[最长湍流子数组](https://github.com/hey-monster/leetcode/issues/56)|中等|动态规划、滑动窗口？
 1114|[Symmetric Tree](https://github.com/hey-monster/leetcode/issues/23)|简单
 1128|[等价多米诺骨牌对的数量](https://github.com/hey-monster/leetcode/issues/37)|简单|二元组、哈希
+1370|[上升下降字符串](https://github.com/hey-monster/leetcode/issues/57)|简单|字符串
 1438|[绝对差不超过限制的最长连续子数组](https://github.com/hey-monster/leetcode/issues/35)|中等
 1535|[Find the Winner of an Array Game](https://github.com/hey-monster/leetcode/issues/31)|中等
 1552|[Magnetic Force Between Two Balls](https://github.com/hey-monster/leetcode/issues/30)|中等
