@@ -29,6 +29,7 @@ one question one day <br>
 0053|[最大子序和](https://github.com/hey-monster/leetcode/issues/59)|简单
 0070|[Climbing Stairs](https://github.com/hey-monster/leetcode/issues/25)|简单
 0088|[Merge Sorted Array](https://github.com/hey-monster/leetcode/issues/24)|简单
+0100|[相同的树](https://github.com/hey-monster/leetcode/issues/67)|简单
 0101|[Symmetric Tree](https://github.com/hey-monster/leetcode/issues/10)|简单
 0104|[二叉树的最大深度](https://github.com/hey-monster/leetcode/issues/65)|简单|深度优先
 0128|[Longest Consecutive Sequence]()|困难
