@@ -20,6 +20,7 @@ one question one day <br>
 0017|[电话号码的字母组合](https://github.com/hey-monster/leetcode/issues/66)|中等|回溯算法、深度优先
 0026|[删除有序数组中的重复项](https://github.com/hey-monster/leetcode/issues/64)|简单|双指针
 0027|[Remove Element](https://github.com/hey-monster/leetcode/issues/13)|简单
+0028|[实现 strStr()](https://github.com/hey-monster/leetcode/issues/68)|简单
 0032|[最长有效括号](https://github.com/hey-monster/leetcode/issues/43)|困难|动态规划、栈
 0035|[search-insert-position](https://github.com/hey-monster/leetcode/issues/21)|简单
 0038|[Count and Say](https://github.com/hey-monster/leetcode/issues/20)|简单
