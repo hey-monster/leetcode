@@ -17,7 +17,8 @@ one question one day <br>
 0013|[Roman to Integer](https://github.com/hey-monster/leetcode/issues/11)|简单
 0014|[Longest Common Prefix](https://github.com/hey-monster/leetcode/issues/18)|简单
 0015|[3Sum](https://github.com/hey-monster/leetcode/issues/19)|中等
-0026|[删除有序数组中的重复项](https://github.com/hey-monster/leetcode/issues/64)|简单
+0017|[电话号码的字母组合](https://github.com/hey-monster/leetcode/issues/66)|中等|回溯算法、深度优先
+0026|[删除有序数组中的重复项](https://github.com/hey-monster/leetcode/issues/64)|简单|双指针
 0027|[Remove Element](https://github.com/hey-monster/leetcode/issues/13)|简单
 0032|[最长有效括号](https://github.com/hey-monster/leetcode/issues/43)|困难|动态规划、栈
 0035|[search-insert-position](https://github.com/hey-monster/leetcode/issues/21)|简单
@@ -29,7 +30,7 @@ one question one day <br>
 0070|[Climbing Stairs](https://github.com/hey-monster/leetcode/issues/25)|简单
 0088|[Merge Sorted Array](https://github.com/hey-monster/leetcode/issues/24)|简单
 0101|[Symmetric Tree](https://github.com/hey-monster/leetcode/issues/10)|简单
-0104|[二叉树的最大深度](https://github.com/hey-monster/leetcode/issues/65)|简单
+0104|[二叉树的最大深度](https://github.com/hey-monster/leetcode/issues/65)|简单|深度优先
 0128|[Longest Consecutive Sequence]()|困难
 0198|[打家劫舍](https://github.com/hey-monster/leetcode/issues/47)|中等|动态规划，其他做法？
 0200|[Number of Islands](https://github.com/hey-monster/leetcode/issues/17)|中等
