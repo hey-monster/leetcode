@@ -19,6 +19,7 @@ one question one day <br>
 0014|[Longest Common Prefix](https://github.com/hey-monster/leetcode/issues/18)|简单
 0015|[3Sum](https://github.com/hey-monster/leetcode/issues/19)|中等
 0017|[电话号码的字母组合](https://github.com/hey-monster/leetcode/issues/66)|中等|回溯算法、深度优先
+0021|[合并两个有序链表](https://github.com/hey-monster/leetcode/issues/72)|简单|递归、迭代
 0026|[删除有序数组中的重复项](https://github.com/hey-monster/leetcode/issues/64)|简单|双指针
 0027|[Remove Element](https://github.com/hey-monster/leetcode/issues/13)|简单
 0028|[实现 strStr()](https://github.com/hey-monster/leetcode/issues/68)|简单|KMP算法
