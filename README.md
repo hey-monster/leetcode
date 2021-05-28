@@ -47,6 +47,7 @@ one question one day <br>
 0461|[汉明距离](https://github.com/hey-monster/leetcode/issues/69)|简单|位运算
 0463|[岛屿的周长](https://github.com/hey-monster/leetcode/issues/34)|简单
 0474|[一和零](https://github.com/hey-monster/leetcode/issues/48)|中等|动态规划、背包问题
+0477|[汉明距离](https://github.com/hey-monster/leetcode/issues/74)|中等|位运算
 0547|[省份数量](https://github.com/hey-monster/leetcode/issues/40)|中等|深度/广度遍历、并查集
 0605|[种花问题](https://github.com/hey-monster/leetcode/issues/53)|简单|贪心算法、分类
 0622|[Design Circular Queue](https://github.com/hey-monster/leetcode/issues/15)|中等
