@@ -75,6 +75,7 @@ one question one day <br>
 17.10|[主要元素](https://github.com/hey-monster/leetcode/issues/33)|简单
 17.21|[直方图的水量](https://github.com/hey-monster/leetcode/issues/41)|困难|数组
 1736|[替换隐藏数字得到的最晚时间](https://github.com/hey-monster/leetcode/issues/39)|简单|分类处理
+剑指 Offer 03|[数组中重复的数字](https://github.com/hey-monster/leetcode/issues/73)|简单|STL、哈希
 序号|关键词
 ---|:---
 K001|[队列和广度优先](https://github.com/hey-monster/leetcode/issues/16)
