@@ -41,6 +41,7 @@ one question one day <br>
 0200|[Number of Islands](https://github.com/hey-monster/leetcode/issues/17)|中等
 0239|[滑动窗口最大值](https://github.com/hey-monster/leetcode/issues/58)|困难|队列？？ 同剑指 Offer 59 - I
 0300|[最长递增子序列](https://github.com/hey-monster/leetcode/issues/49)|中等|动态规划、贪心 + 二分查找？
+0342|[4的幂](https://github.com/hey-monster/leetcode/issues/76)|简单|位运算
 0344|[Reverse String](https://github.com/hey-monster/leetcode/issues/26)|简单
 0403|[青蛙过河](https://github.com/hey-monster/leetcode/issues/50)|困难|动态规划，其他方法？
 0459|[重复的子字符串](https://github.com/hey-monster/leetcode/issues/44)|简单|字符串、枚举、KMP算法（待）
