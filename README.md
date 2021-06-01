@@ -59,6 +59,7 @@ one question one day <br>
 0643|[子数组最大平均数 I](https://github.com/hey-monster/leetcode/issues/52)|简单|滑动窗口、数组、动态规划
 0665|[非递减数列](https://github.com/hey-monster/leetcode/issues/55)|简单|数组
 0714|[买卖股票的最佳时机含手续费](https://github.com/hey-monster/leetcode/issues/62)|中等|动态规划
+0739|[每日温度](https://github.com/hey-monster/leetcode/issues/82)|中等|单调栈、遍历、数组处理
 0765|[Couples Holding Hands]()|困难
 0809|[Expressive Words](https://github.com/hey-monster/leetcode/issues/32)|中等
 0832|[翻转图像](https://github.com/hey-monster/leetcode/issues/63)|简单|位运算、循环
