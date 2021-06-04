@@ -7,8 +7,8 @@ one question one day <br>
 0001|[Two Sum](https://github.com/hey-monster/leetcode/issues/38)|简单|哈希表
 0002|[Add Two Numbers](https://github.com/hey-monster/leetcode/blob/master/code/0002.Add%20Two%20Numbers.cpp)|中等
 0003|[Longest Substring Without Repeating Characters](https://github.com/hey-monster/leetcode/issues/3)|中等
-0005|[Longest Palindromic Substring](https://github.com/hey-monster/leetcode/issues/8)|中等
 0004|[寻找两个正序数组的中位数](https://github.com/hey-monster/leetcode/issues/70)|困难|未完成
+0005|[Longest Palindromic Substring](https://github.com/hey-monster/leetcode/issues/8)|中等
 0006|[ZigZag Conversion](https://github.com/hey-monster/leetcode/issues/9)|中等
 0007|[Reverse Integer](https://github.com/hey-monster/leetcode/issues/5)|简单
 0008|[String to Integer (atoi)](https://github.com/hey-monster/leetcode/issues/7)|中等
@@ -51,6 +51,7 @@ one question one day <br>
 0342|[4的幂](https://github.com/hey-monster/leetcode/issues/76)|简单|位运算
 0344|[Reverse String](https://github.com/hey-monster/leetcode/issues/26)|简单
 0403|[青蛙过河](https://github.com/hey-monster/leetcode/issues/50)|困难|动态规划，其他方法？
+0452|[用最少数量的箭引爆气球](https://github.com/hey-monster/leetcode/issues/89)|中等|贪心+快排
 0459|[重复的子字符串](https://github.com/hey-monster/leetcode/issues/44)|简单|字符串、枚举、KMP算法（待）
 0461|[汉明距离](https://github.com/hey-monster/leetcode/issues/69)|简单|位运算
 0463|[岛屿的周长](https://github.com/hey-monster/leetcode/issues/34)|简单
