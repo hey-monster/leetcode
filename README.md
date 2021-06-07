@@ -58,6 +58,7 @@ one question one day <br>
 0463|[岛屿的周长](https://github.com/hey-monster/leetcode/issues/34)|简单
 0474|[一和零](https://github.com/hey-monster/leetcode/issues/48)|中等|动态规划、背包问题
 0477|[汉明距离](https://github.com/hey-monster/leetcode/issues/74)|中等|位运算
+0494|[目标和](https://github.com/hey-monster/leetcode/issues/92)|中等|动态规划、回溯算法
 0523|[连续的子数组和](https://github.com/hey-monster/leetcode/issues/84)|中等|前缀和+哈希+同余定理
 0547|[省份数量](https://github.com/hey-monster/leetcode/issues/40)|中等|深度/广度遍历、并查集
 0560|[和为K的子数组](https://github.com/hey-monster/leetcode/issues/75)|中等|前缀和、哈希表实现、枚举
