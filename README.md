@@ -71,6 +71,7 @@ one question one day <br>
 0809|[Expressive Words](https://github.com/hey-monster/leetcode/issues/32)|中等
 0832|[翻转图像](https://github.com/hey-monster/leetcode/issues/63)|简单|位运算、循环
 0867|[Transpose Matrix](https://github.com/hey-monster/leetcode/issues/27)|简单
+0934|[最短的桥](https://github.com/hey-monster/leetcode/issues/90)|中等|DFS + BFS
 0959|[由斜杠划分区域](https://github.com/hey-monster/leetcode/issues/36)|中等|并查集
 0977|[Squares of a Sorted Array](https://github.com/hey-monster/leetcode/issues/28)|简单
 0978|[最长湍流子数组](https://github.com/hey-monster/leetcode/issues/56)|中等|动态规划、滑动窗口？
