@@ -99,4 +99,4 @@ one question one day <br>
 序号|关键词
 ---|:---
 K001|[队列和广度优先](https://github.com/hey-monster/leetcode/issues/16)
-HW604|[简易音乐播放器](https://github.com/hey-monster/leetcode/issues/94)|中等|设计、数据结构、uthash.h使用
+HW0604-1|[简易音乐播放器](https://github.com/hey-monster/leetcode/issues/94)|中等|设计、数据结构、uthash.h使用
