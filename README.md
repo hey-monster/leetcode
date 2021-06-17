@@ -74,6 +74,7 @@ one question one day <br>
 0832|[翻转图像](https://github.com/hey-monster/leetcode/issues/63)|简单|位运算、循环
 0852|[山脉数组的峰顶索引](https://github.com/hey-monster/leetcode/issues/95)|简单|二分法
 0867|[Transpose Matrix](https://github.com/hey-monster/leetcode/issues/27)|简单
+0877|[石子游戏](https://github.com/hey-monster/leetcode/issues/96)|中等|动态规划
 0934|[最短的桥](https://github.com/hey-monster/leetcode/issues/90)|中等|DFS + BFS
 0959|[由斜杠划分区域](https://github.com/hey-monster/leetcode/issues/36)|中等|并查集
 0977|[Squares of a Sorted Array](https://github.com/hey-monster/leetcode/issues/28)|简单
