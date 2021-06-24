@@ -41,7 +41,7 @@ one question one day <br>
 0104|[二叉树的最大深度](https://github.com/hey-monster/leetcode/issues/65)|简单|深度优先
 0121|[买卖股票的最佳时机](https://github.com/hey-monster/leetcode/issues/80)|简单|动态规划
 0122|[买卖股票的最佳时机 II](https://github.com/hey-monster/leetcode/issues/86)|简单|动态规划、注意转换方程式
-0128|[Longest Consecutive Sequence]()|困难
+0128|[Longest Consecutive Sequence]()|中等|未做
 0149|[直线上最多的点数](https://github.com/hey-monster/leetcode/issues/97)|困难|循环、最大公约数、斜率
 0160|[相交链表](https://github.com/hey-monster/leetcode/issues/91)|简单|链表
 0198|[打家劫舍](https://github.com/hey-monster/leetcode/issues/47)|中等|动态规划，其他做法？
