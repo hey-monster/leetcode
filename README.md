@@ -44,7 +44,7 @@ one question one day <br>
 0128|[Longest Consecutive Sequence]()|中等|未做
 0149|[直线上最多的点数](https://github.com/hey-monster/leetcode/issues/97)|困难|循环、最大公约数、斜率
 0160|[相交链表](https://github.com/hey-monster/leetcode/issues/91)|简单|链表
-0191|[位1的个数](https://github.com/hey-monster/leetcode/issues/98)|简单|位运算
+0191 & 剑指 Offer 15 |[位1的个数、二进制中1的个数](https://github.com/hey-monster/leetcode/issues/98)|简单|位运算
 0198|[打家劫舍](https://github.com/hey-monster/leetcode/issues/47)|中等|动态规划，其他做法？
 0200|[Number of Islands](https://github.com/hey-monster/leetcode/issues/17)|中等|DFS、BFS、并查集模板记忆
 0209|[长度最小的子数组](https://github.com/hey-monster/leetcode/issues/85)|中等|滑动窗口
