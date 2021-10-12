@@ -25,7 +25,7 @@ one question one day <br>
 0028|[实现 strStr()](https://github.com/hey-monster/leetcode/issues/68)|简单|KMP算法
 0032|[最长有效括号](https://github.com/hey-monster/leetcode/issues/43)|困难|动态规划、栈
 0033|[搜索旋转排序数组](https://github.com/hey-monster/leetcode/issues/88)|困难|动态规划、栈
-0035|[search-insert-position](https://github.com/hey-monster/leetcode/issues/21)|简单
+0035|[搜索插入位置](https://github.com/hey-monster/leetcode/issues/21)|简单
 0038|[Count and Say](https://github.com/hey-monster/leetcode/issues/20)|简单
 0042|[接雨水](https://github.com/hey-monster/leetcode/issues/54)|困难|双指针
 0043|[字符串相乘](https://github.com/hey-monster/leetcode/issues/46)|中等|???
