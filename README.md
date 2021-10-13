@@ -81,7 +81,7 @@ one question one day <br>
 0877|[石子游戏](https://github.com/hey-monster/leetcode/issues/96)|中等|动态规划
 0934|[最短的桥](https://github.com/hey-monster/leetcode/issues/90)|中等|DFS + BFS
 0959|[由斜杠划分区域](https://github.com/hey-monster/leetcode/issues/36)|中等|并查集
-0977|[Squares of a Sorted Array](https://github.com/hey-monster/leetcode/issues/28)|简单
+0977|[有序数组的平方](https://github.com/hey-monster/leetcode/issues/28)|简单
 0978|[最长湍流子数组](https://github.com/hey-monster/leetcode/issues/56)|中等|动态规划、滑动窗口？
 1049|[最后一块石头的重量 II](https://github.com/hey-monster/leetcode/issues/93)|中等|动态规划 + 优化
 1074|[元素和为目标值的子矩阵数量](https://github.com/hey-monster/leetcode/issues/77)|困难|前缀和、哈希、uthash.h
