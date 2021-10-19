@@ -68,6 +68,7 @@ one question one day <br>
 0523|[连续的子数组和](https://github.com/hey-monster/leetcode/issues/84)|中等|前缀和+哈希+同余定理
 0547|[省份数量](https://github.com/hey-monster/leetcode/issues/40)|中等|深度/广度遍历、并查集
 0560|[和为K的子数组](https://github.com/hey-monster/leetcode/issues/75)|中等|前缀和、哈希表实现、枚举
+0567|[字符串的排列](https://github.com/hey-monster/leetcode/issues/110)|中等|滑动窗口
 0605|[种花问题](https://github.com/hey-monster/leetcode/issues/53)|简单|贪心算法、分类
 0622|[Design Circular Queue](https://github.com/hey-monster/leetcode/issues/15)|中等
 0628|[三个数的最大乘积](https://github.com/hey-monster/leetcode/issues/51)|简单|排序、优化
