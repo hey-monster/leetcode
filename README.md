@@ -74,6 +74,7 @@ one question one day <br>
 0628|[三个数的最大乘积](https://github.com/hey-monster/leetcode/issues/51)|简单|排序、优化
 0643|[子数组最大平均数 I](https://github.com/hey-monster/leetcode/issues/52)|简单|滑动窗口、数组、动态规划
 0665|[非递减数列](https://github.com/hey-monster/leetcode/issues/55)|简单|数组
+0695|[岛屿的最大面积](https://github.com/hey-monster/leetcode/issues/112)|中等|深度、广度优先搜索
 0704|[二分查找](https://github.com/hey-monster/leetcode/issues/100)|简单|二分查找
 0707|[设计链表](https://github.com/hey-monster/leetcode/issues/106)|中等|链表实现
 0714|[买卖股票的最佳时机含手续费](https://github.com/hey-monster/leetcode/issues/62)|中等|动态规划
