@@ -95,6 +95,7 @@ one question one day <br>
 0959|[由斜杠划分区域](https://github.com/hey-monster/leetcode/issues/36)|中等|并查集
 0977|[有序数组的平方](https://github.com/hey-monster/leetcode/issues/28)|简单
 0978|[最长湍流子数组](https://github.com/hey-monster/leetcode/issues/56)|中等|动态规划、滑动窗口？
+0994|[腐烂的橘子](https://github.com/hey-monster/leetcode/issues/116)|中等|广度优先搜索
 1049|[最后一块石头的重量 II](https://github.com/hey-monster/leetcode/issues/93)|中等|动态规划 + 优化
 1074|[元素和为目标值的子矩阵数量](https://github.com/hey-monster/leetcode/issues/77)|困难|前缀和、哈希、uthash.h
 1114|[Symmetric Tree](https://github.com/hey-monster/leetcode/issues/23)|简单
