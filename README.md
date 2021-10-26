@@ -29,6 +29,7 @@ one question one day <br>
 0038|[Count and Say](https://github.com/hey-monster/leetcode/issues/20)|简单
 0042|[接雨水](https://github.com/hey-monster/leetcode/issues/54)|困难|双指针
 0043|[字符串相乘](https://github.com/hey-monster/leetcode/issues/46)|中等|???
+0046|[全排列](https://github.com/hey-monster/leetcode/issues/119)|中等|递归、回溯
 0050|[powx-n](https://github.com/hey-monster/leetcode/issues/22)|中等
 0053|[最大子序和](https://github.com/hey-monster/leetcode/issues/59)|简单
 0070|[Climbing Stairs](https://github.com/hey-monster/leetcode/issues/25)|简单
