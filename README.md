@@ -32,7 +32,7 @@ one question one day <br>
 0046|[全排列](https://github.com/hey-monster/leetcode/issues/119)|中等|递归、回溯
 0050|[powx-n](https://github.com/hey-monster/leetcode/issues/22)|中等
 0053|[最大子序和](https://github.com/hey-monster/leetcode/issues/59)|简单
-0070|[Climbing Stairs](https://github.com/hey-monster/leetcode/issues/25)|简单
+0070|[爬楼梯](https://github.com/hey-monster/leetcode/issues/25)|简单|动态规划、递归
 0071|[有效的括号](https://github.com/hey-monster/leetcode/issues/71)|简单|栈
 0075|[颜色分类](https://github.com/hey-monster/leetcode/issues/79)|中等|指针、数组、荷兰国旗问题
 0077|[组合](https://github.com/hey-monster/leetcode/issues/118)|中等|递归
