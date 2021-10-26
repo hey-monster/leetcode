@@ -88,6 +88,7 @@ one question one day <br>
 0733|[图像渲染](https://github.com/hey-monster/leetcode/issues/111)|简单|深度、广度优先搜索
 0739|[每日温度](https://github.com/hey-monster/leetcode/issues/82)|中等|单调栈、遍历、数组处理
 0765|[Couples Holding Hands]()|困难
+0784|[字母大小写全排列](https://github.com/hey-monster/leetcode/issues/120)|中等|递归、深度
 0809|[Expressive Words](https://github.com/hey-monster/leetcode/issues/32)|中等
 0820|[单词的压缩编码](https://github.com/hey-monster/leetcode/issues/99)|中等|?再看
 0832|[翻转图像](https://github.com/hey-monster/leetcode/issues/63)|简单|位运算、循环
