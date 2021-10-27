@@ -57,6 +57,7 @@ one question one day <br>
 0200|[Number of Islands](https://github.com/hey-monster/leetcode/issues/17)|中等|DFS、BFS、并查集模板记忆
 0206|[反转链表](https://github.com/hey-monster/leetcode/issues/117)|简单|递归、回溯
 0209|[长度最小的子数组](https://github.com/hey-monster/leetcode/issues/85)|中等|滑动窗口
+0231|[2 的幂](https://github.com/hey-monster/leetcode/issues/122)|简单|位运算
 0239|[滑动窗口最大值](https://github.com/hey-monster/leetcode/issues/58)|困难|队列？？ 同剑指 Offer 59 - I
 0240|[搜索二维矩阵 II](https://github.com/hey-monster/leetcode/issues/87)|中等|二分查找
 0283|[移动零](https://github.com/hey-monster/leetcode/issues/103)|简单|双指针
