@@ -47,6 +47,7 @@ one question one day <br>
 0121|[买卖股票的最佳时机](https://github.com/hey-monster/leetcode/issues/80)|简单|动态规划
 0122|[买卖股票的最佳时机 II](https://github.com/hey-monster/leetcode/issues/86)|简单|动态规划、注意转换方程式
 0128|[Longest Consecutive Sequence]()|中等|未做
+0136|[只出现一次的数字](https://github.com/hey-monster/leetcode/issues/124)|简单|位运算、异或
 0141|[环形链表](https://github.com/hey-monster/leetcode/issues/107)|简单|链表、双指针
 0149|[直线上最多的点数](https://github.com/hey-monster/leetcode/issues/97)|困难|循环、最大公约数、斜率
 0160|[相交链表](https://github.com/hey-monster/leetcode/issues/91)|简单|链表
