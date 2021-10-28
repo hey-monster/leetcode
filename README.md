@@ -122,6 +122,7 @@ one question one day <br>
 17.21|[直方图的水量](https://github.com/hey-monster/leetcode/issues/41)|困难|数组
 1736|[替换隐藏数字得到的最晚时间](https://github.com/hey-monster/leetcode/issues/39)|简单|分类处理
 1744|[你能在你最喜欢的那天吃到你最喜欢的糖果吗？](https://github.com/hey-monster/leetcode/issues/81)|中等|前缀和、数组处理
+1901|[找出顶峰元素 II](https://github.com/hey-monster/leetcode/issues/126)|中等|二分法、分治、数组
 剑指 Offer 03|[数组中重复的数字](https://github.com/hey-monster/leetcode/issues/73)|简单|STL、哈希
 面试题 08.05|[递归乘法](https://github.com/hey-monster/leetcode/issues/78)|中等|递归
 序号|关键词
