@@ -110,6 +110,7 @@ one question one day <br>
 1114|[Symmetric Tree](https://github.com/hey-monster/leetcode/issues/23)|简单
 1128|[等价多米诺骨牌对的数量](https://github.com/hey-monster/leetcode/issues/37)|简单|二元组、哈希
 1182|[与目标颜色间的最短距离](https://github.com/hey-monster/leetcode/issues/128)|中等|二分查找、动态规划未做
+1229|[安排会议日程](https://github.com/hey-monster/leetcode/issues/129)|中等|排序、双指针
 1231|[分享巧克力](https://github.com/hey-monster/leetcode/issues/127)|困难|二分查找
 1267|[统计参与通信的服务器](https://github.com/hey-monster/leetcode/issues/60)|中等|数组、循环
 1370|[上升下降字符串](https://github.com/hey-monster/leetcode/issues/57)|简单|字符串、哈希
