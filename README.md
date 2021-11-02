@@ -61,7 +61,7 @@ one question one day <br>
 0206|[反转链表](https://github.com/hey-monster/leetcode/issues/117)|简单|递归、回溯
 0209|[长度最小的子数组](https://github.com/hey-monster/leetcode/issues/85)|中等|滑动窗口
 0231|[2 的幂](https://github.com/hey-monster/leetcode/issues/122)|简单|位运算、递归
-0239|[滑动窗口最大值](https://github.com/hey-monster/leetcode/issues/58)|困难|队列？？ 同剑指 Offer 59 - I
+0239|[滑动窗口最大值](https://github.com/hey-monster/leetcode/issues/58)|困难|滑动窗口、单调队列、同剑指 Offer 59 - I
 0240|[搜索二维矩阵 II](https://github.com/hey-monster/leetcode/issues/87)|中等|二分查找
 0283|[移动零](https://github.com/hey-monster/leetcode/issues/103)|简单|双指针
 0287|[寻找重复数](https://github.com/hey-monster/leetcode/issues/130)|中等|双指针、快慢指针
