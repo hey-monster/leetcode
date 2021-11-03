@@ -65,6 +65,7 @@ one question one day <br>
 0239|[滑动窗口最大值](https://github.com/hey-monster/leetcode/issues/58)|困难|滑动窗口、单调队列、同剑指 Offer 59 - I
 0240|[搜索二维矩阵 II](https://github.com/hey-monster/leetcode/issues/87)|中等|二分查找
 0283|[移动零](https://github.com/hey-monster/leetcode/issues/103)|简单|双指针
+0286|[墙与门](https://github.com/hey-monster/leetcode/issues/137)|中等|广度优先搜索
 0287|[寻找重复数](https://github.com/hey-monster/leetcode/issues/130)|中等|双指针、快慢指针
 0300|[最长递增子序列](https://github.com/hey-monster/leetcode/issues/49)|中等|动态规划、贪心 + 二分查找？
 0340|[至多包含 K 个不同字符的最长子串](https://github.com/hey-monster/leetcode/issues/133)|中等|滑动窗口
