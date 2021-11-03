@@ -85,6 +85,7 @@ one question one day <br>
 0547|[省份数量](https://github.com/hey-monster/leetcode/issues/40)|中等|深度/广度遍历、并查集
 0560|[和为K的子数组](https://github.com/hey-monster/leetcode/issues/75)|中等|前缀和、哈希表实现、枚举
 0567|[字符串的排列](https://github.com/hey-monster/leetcode/issues/110)|中等|滑动窗口
+0582|[杀掉进程](https://github.com/hey-monster/leetcode/issues/140)|中等|并查集、深度优先
 0605|[种花问题](https://github.com/hey-monster/leetcode/issues/53)|简单|贪心算法、分类
 0617|[合并二叉树](https://github.com/hey-monster/leetcode/issues/113)|简单|深度、广度优先搜索
 0622|[Design Circular Queue](https://github.com/hey-monster/leetcode/issues/15)|中等
