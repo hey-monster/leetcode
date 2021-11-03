@@ -122,6 +122,7 @@ one question one day <br>
 1267|[统计参与通信的服务器](https://github.com/hey-monster/leetcode/issues/60)|中等|数组、循环
 1370|[上升下降字符串](https://github.com/hey-monster/leetcode/issues/57)|简单|字符串、哈希
 1438|[绝对差不超过限制的最长连续子数组](https://github.com/hey-monster/leetcode/issues/35)|中等
+1469|[寻找所有的独生节点](https://github.com/hey-monster/leetcode/issues/139)|简单|深度、广度
 1535|[Find the Winner of an Array Game](https://github.com/hey-monster/leetcode/issues/31)|中等
 1550|[存在连续三个奇数的数组](https://github.com/hey-monster/leetcode/issues/61)|简单|数组、符合&
 1552|[Magnetic Force Between Two Balls](https://github.com/hey-monster/leetcode/issues/30)|中等
