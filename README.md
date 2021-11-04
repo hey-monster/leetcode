@@ -142,6 +142,7 @@ one question one day <br>
 1901|[找出顶峰元素 II](https://github.com/hey-monster/leetcode/issues/126)|中等|二分法、分治、数组
 剑指 Offer 03|[数组中重复的数字](https://github.com/hey-monster/leetcode/issues/73)|简单|STL、哈希
 剑指 Offer 09|[用两个栈实现队列](https://github.com/hey-monster/leetcode/issues/145)|简单|栈、队列
+剑指 Offer 30|[包含min函数的栈](https://github.com/hey-monster/leetcode/issues/146)|简单|栈
 面试题 08.05|[递归乘法](https://github.com/hey-monster/leetcode/issues/78)|中等|递归
 序号|关键词
 ---|:---
