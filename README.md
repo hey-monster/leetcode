@@ -144,7 +144,6 @@ one question one day <br>
 剑指 Offer 09|[用两个栈实现队列](https://github.com/hey-monster/leetcode/issues/145)|简单|栈、队列
 剑指 Offer 30|[包含min函数的栈](https://github.com/hey-monster/leetcode/issues/146)|简单|栈
 面试题 08.05|[递归乘法](https://github.com/hey-monster/leetcode/issues/78)|中等|递归
-序号|关键词
----|:---
+LCP 28|[采购方案](https://github.com/hey-monster/leetcode/issues/147)|简单|排序、双指针
 K001|[队列和广度优先](https://github.com/hey-monster/leetcode/issues/16)
 HW0604-1|[简易音乐播放器](https://github.com/hey-monster/leetcode/issues/94)|中等|设计、数据结构、uthash.h使用
