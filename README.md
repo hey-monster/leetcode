@@ -98,6 +98,7 @@ one question one day <br>
 0714|[买卖股票的最佳时机含手续费](https://github.com/hey-monster/leetcode/issues/62)|中等|动态规划
 0733|[图像渲染](https://github.com/hey-monster/leetcode/issues/111)|简单|深度、广度优先搜索
 0739|[每日温度](https://github.com/hey-monster/leetcode/issues/82)|中等|单调栈、遍历、数组处理
+0752|[打开转盘锁](https://github.com/hey-monster/leetcode/issues/142)|中等|广度优先搜索+hash
 0765|[Couples Holding Hands]()|困难
 0784|[字母大小写全排列](https://github.com/hey-monster/leetcode/issues/120)|中等|递归、深度
 0809|[Expressive Words](https://github.com/hey-monster/leetcode/issues/32)|中等
