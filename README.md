@@ -127,6 +127,7 @@ one question one day <br>
 1231|[分享巧克力](https://github.com/hey-monster/leetcode/issues/127)|困难|二分查找
 1267|[统计参与通信的服务器](https://github.com/hey-monster/leetcode/issues/60)|中等|数组、循环
 1319|[连通网络的操作次数](https://github.com/hey-monster/leetcode/issues/149)|中等|并查集
+1368|[使网格图至少有一条有效路径的最小代价](https://github.com/hey-monster/leetcode/issues/150)|困难|广度优先搜索
 1370|[上升下降字符串](https://github.com/hey-monster/leetcode/issues/57)|简单|字符串、哈希
 1438|[绝对差不超过限制的最长连续子数组](https://github.com/hey-monster/leetcode/issues/35)|中等
 1469|[寻找所有的独生节点](https://github.com/hey-monster/leetcode/issues/139)|简单|深度、广度
