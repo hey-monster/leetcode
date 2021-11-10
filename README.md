@@ -64,6 +64,7 @@ one question one day <br>
 0231|[2 的幂](https://github.com/hey-monster/leetcode/issues/122)|简单|位运算、递归
 0239|[滑动窗口最大值](https://github.com/hey-monster/leetcode/issues/58)|困难|滑动窗口、单调队列、同剑指 Offer 59 - I
 0240|[搜索二维矩阵 II](https://github.com/hey-monster/leetcode/issues/87)|中等|二分查找
+0254|[因子的组合](https://github.com/hey-monster/leetcode/issues/152)|中等|递归、回溯
 0283|[移动零](https://github.com/hey-monster/leetcode/issues/103)|简单|双指针
 0286|[墙与门](https://github.com/hey-monster/leetcode/issues/137)|中等|广度优先搜索
 0287|[寻找重复数](https://github.com/hey-monster/leetcode/issues/130)|中等|双指针、快慢指针
