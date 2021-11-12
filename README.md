@@ -31,6 +31,7 @@ one question one day <br>
 0043|[字符串相乘](https://github.com/hey-monster/leetcode/issues/46)|中等|???
 0046|[全排列](https://github.com/hey-monster/leetcode/issues/119)|中等|递归、回溯
 0050|[powx-n](https://github.com/hey-monster/leetcode/issues/22)|中等
+0051|[N 皇后](https://github.com/hey-monster/leetcode/issues/154)|困难|递归、回溯、深度优先
 0053|[最大子序和](https://github.com/hey-monster/leetcode/issues/59)|简单
 0070|[爬楼梯](https://github.com/hey-monster/leetcode/issues/25)|简单|动态规划、递归
 0071|[有效的括号](https://github.com/hey-monster/leetcode/issues/71)|简单|栈
