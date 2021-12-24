@@ -79,6 +79,7 @@ one question one day <br>
 0394|[字符串解码](https://github.com/hey-monster/leetcode/issues/153)|中等|栈、递归、字符串
 0403|[青蛙过河](https://github.com/hey-monster/leetcode/issues/50)|困难|动态规划，其他方法？
 0417|[太平洋大西洋水流问题](https://github.com/hey-monster/leetcode/issues/138)|中等|深度优先搜索、广度没做？
+0438|[找到字符串中所有字母异位词](https://github.com/hey-monster/leetcode/issues/158)|中等|滑动窗口
 0452|[用最少数量的箭引爆气球](https://github.com/hey-monster/leetcode/issues/89)|中等|贪心+快排
 0459|[重复的子字符串](https://github.com/hey-monster/leetcode/issues/44)|简单|字符串、枚举、KMP算法（待）
 0461|[汉明距离](https://github.com/hey-monster/leetcode/issues/69)|简单|位运算
