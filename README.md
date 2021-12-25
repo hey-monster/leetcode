@@ -117,6 +117,7 @@ one question one day <br>
 0852|[山脉数组的峰顶索引](https://github.com/hey-monster/leetcode/issues/95)|简单|二分法
 0863|[二叉树中所有距离为 K 的结点](https://github.com/hey-monster/leetcode/issues/141)|中等|深度递归、uthash
 0867|[Transpose Matrix](https://github.com/hey-monster/leetcode/issues/27)|简单
+0875|[爱吃香蕉的珂珂](https://github.com/hey-monster/leetcode/issues/160)|中等|二分法
 0877|[石子游戏](https://github.com/hey-monster/leetcode/issues/96)|中等|动态规划
 0934|[最短的桥](https://github.com/hey-monster/leetcode/issues/90)|中等|DFS + BFS
 0959|[由斜杠划分区域](https://github.com/hey-monster/leetcode/issues/36)|中等|并查集
