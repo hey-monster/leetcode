@@ -113,6 +113,7 @@ one question one day <br>
 0784|[字母大小写全排列](https://github.com/hey-monster/leetcode/issues/120)|中等|递归、深度
 0809|[Expressive Words](https://github.com/hey-monster/leetcode/issues/32)|中等
 0820|[单词的压缩编码](https://github.com/hey-monster/leetcode/issues/99)|中等|?再看
+0825|[适龄的朋友](https://github.com/hey-monster/leetcode/issues/162)|中等|排序、双指针
 0832|[翻转图像](https://github.com/hey-monster/leetcode/issues/63)|简单|位运算、循环
 0852|[山脉数组的峰顶索引](https://github.com/hey-monster/leetcode/issues/95)|简单|二分法
 0863|[二叉树中所有距离为 K 的结点](https://github.com/hey-monster/leetcode/issues/141)|中等|深度递归、uthash
