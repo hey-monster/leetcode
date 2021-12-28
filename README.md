@@ -74,6 +74,7 @@ one question one day <br>
 0286|[墙与门](https://github.com/hey-monster/leetcode/issues/137)|中等|广度优先搜索
 0287|[寻找重复数](https://github.com/hey-monster/leetcode/issues/130)|中等|双指针、快慢指针
 0300|[最长递增子序列](https://github.com/hey-monster/leetcode/issues/49)|中等|动态规划、贪心 + 二分查找？
+0325|[和等于 k 的最长子数组长度](https://github.com/hey-monster/leetcode/issues/164)|中等|前缀和 + hash
 0340|[至多包含 K 个不同字符的最长子串](https://github.com/hey-monster/leetcode/issues/133)|中等|滑动窗口
 0342|[4的幂](https://github.com/hey-monster/leetcode/issues/76)|简单|位运算
 0344|[Reverse String](https://github.com/hey-monster/leetcode/issues/26)|简单
