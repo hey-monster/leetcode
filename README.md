@@ -85,6 +85,7 @@ one question one day <br>
 0459|[重复的子字符串](https://github.com/hey-monster/leetcode/issues/44)|简单|字符串、枚举、KMP算法（待）
 0461|[汉明距离](https://github.com/hey-monster/leetcode/issues/69)|简单|位运算
 0463|[岛屿的周长](https://github.com/hey-monster/leetcode/issues/34)|简单
+0472|[连接词](https://github.com/hey-monster/leetcode/issues/163)|困难|字典树、深度优先搜索
 0474|[一和零](https://github.com/hey-monster/leetcode/issues/48)|中等|动态规划、背包问题
 0477|[汉明距离](https://github.com/hey-monster/leetcode/issues/74)|中等|位运算
 0494|[目标和](https://github.com/hey-monster/leetcode/issues/92)|中等|动态规划、回溯算法
