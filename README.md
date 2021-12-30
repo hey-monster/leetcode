@@ -51,7 +51,7 @@ one question one day <br>
 0120|[三角形最小路径和](https://github.com/hey-monster/leetcode/issues/121)|中等|动态规划
 0121|[买卖股票的最佳时机](https://github.com/hey-monster/leetcode/issues/80)|简单|动态规划
 0122|[买卖股票的最佳时机 II](https://github.com/hey-monster/leetcode/issues/86)|简单|动态规划、注意转换方程式
-0128|[Longest Consecutive Sequence]()|中等|未做
+0128|[最长连续序列](https://github.com/hey-monster/leetcode/issues/166)|中等|hash + 并查集
 0136|[只出现一次的数字](https://github.com/hey-monster/leetcode/issues/124)|简单|位运算、异或
 0146|[LRU 缓存机制](https://github.com/hey-monster/leetcode/issues/159)|中等|uthash、数据结构设计
 0141|[环形链表](https://github.com/hey-monster/leetcode/issues/107)|简单|链表、双指针
