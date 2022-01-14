@@ -34,7 +34,7 @@ one question one day <br>
 0046|[全排列](https://github.com/hey-monster/leetcode/issues/119)|中等|递归、回溯
 0050|[powx-n](https://github.com/hey-monster/leetcode/issues/22)|中等
 0051|[N 皇后](https://github.com/hey-monster/leetcode/issues/154)|困难|递归、回溯、深度优先
-0053|[最大子序和](https://github.com/hey-monster/leetcode/issues/59)|简单
+0053|[最大子序和](https://github.com/hey-monster/leetcode/issues/59)|简单|分治、动态规划
 0070|[爬楼梯](https://github.com/hey-monster/leetcode/issues/25)|简单|动态规划、递归
 0071|[有效的括号](https://github.com/hey-monster/leetcode/issues/71)|简单|栈
 0075|[颜色分类](https://github.com/hey-monster/leetcode/issues/79)|中等|指针、数组、荷兰国旗问题
@@ -76,6 +76,7 @@ one question one day <br>
 0287|[寻找重复数](https://github.com/hey-monster/leetcode/issues/130)|中等|双指针、快慢指针
 0292|[Nim 游戏](https://github.com/hey-monster/leetcode/issues/167)|简单|数学推理
 0300|[最长递增子序列](https://github.com/hey-monster/leetcode/issues/49)|中等|动态规划、贪心 + 二分查找？
+0309|[最佳买卖股票时机含冷冻期](https://github.com/hey-monster/leetcode/issues/169)|中等|动态规划
 0325|[和等于 k 的最长子数组长度](https://github.com/hey-monster/leetcode/issues/164)|中等|前缀和 + hash
 0340|[至多包含 K 个不同字符的最长子串](https://github.com/hey-monster/leetcode/issues/133)|中等|滑动窗口
 0342|[4的幂](https://github.com/hey-monster/leetcode/issues/76)|简单|位运算
