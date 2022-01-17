@@ -162,6 +162,7 @@ one question one day <br>
 1744|[你能在你最喜欢的那天吃到你最喜欢的糖果吗？](https://github.com/hey-monster/leetcode/issues/81)|中等|前缀和、数组处理
 1868|[两个行程编码数组的积](https://github.com/hey-monster/leetcode/issues/131)|中等|双指针、数组
 1901|[找出顶峰元素 II](https://github.com/hey-monster/leetcode/issues/126)|中等|二分法、分治、数组
+2043|[简易银行系统](https://github.com/hey-monster/leetcode/issues/172)|中等|设计、数组
 剑指 Offer 03|[数组中重复的数字](https://github.com/hey-monster/leetcode/issues/73)|简单|STL、哈希
 剑指 Offer 09|[用两个栈实现队列](https://github.com/hey-monster/leetcode/issues/145)|简单|栈、队列
 剑指 Offer 30|[包含min函数的栈](https://github.com/hey-monster/leetcode/issues/146)|简单|栈
