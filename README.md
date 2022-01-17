@@ -65,6 +65,7 @@ one question one day <br>
 0198|[打家劫舍](https://github.com/hey-monster/leetcode/issues/47)|中等|动态规划，其他做法？
 0200|[Number of Islands](https://github.com/hey-monster/leetcode/issues/17)|中等|DFS、BFS、并查集模板记忆
 0206|[反转链表](https://github.com/hey-monster/leetcode/issues/117)|简单|递归、回溯
+0208|[实现 Trie (前缀树)](https://github.com/hey-monster/leetcode/issues/171)|中等|前缀树
 0209|[长度最小的子数组](https://github.com/hey-monster/leetcode/issues/85)|中等|滑动窗口
 0215|[数组中的第K个最大元素](https://github.com/hey-monster/leetcode/issues/168)|中等|快速排序、堆排序
 0231|[2 的幂](https://github.com/hey-monster/leetcode/issues/122)|简单|位运算、递归
