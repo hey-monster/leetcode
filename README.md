@@ -134,6 +134,7 @@ one question one day <br>
 1049|[最后一块石头的重量 II](https://github.com/hey-monster/leetcode/issues/93)|中等|动态规划 + 优化
 1060|[有序数组中的缺失元素](https://github.com/hey-monster/leetcode/issues/125)|中等|二分法
 1074|[元素和为目标值的子矩阵数量](https://github.com/hey-monster/leetcode/issues/77)|困难|前缀和、哈希、uthash.h
+1100|[长度为 K 的无重复字符子串](https://github.com/hey-monster/leetcode/issues/170)|中等|滑动窗口
 1114|[Symmetric Tree](https://github.com/hey-monster/leetcode/issues/23)|简单
 1128|[等价多米诺骨牌对的数量](https://github.com/hey-monster/leetcode/issues/37)|简单|二元组、哈希
 1137|[第 N 个泰波那契数](https://github.com/hey-monster/leetcode/issues/144)|简单|动态规划
