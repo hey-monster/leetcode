@@ -149,6 +149,7 @@ one question one day <br>
 1319|[连通网络的操作次数](https://github.com/hey-monster/leetcode/issues/149)|中等|并查集
 1368|[使网格图至少有一条有效路径的最小代价](https://github.com/hey-monster/leetcode/issues/150)|困难|广度优先搜索
 1370|[上升下降字符串](https://github.com/hey-monster/leetcode/issues/57)|简单|字符串、哈希
+1396|[设计地铁系统 ](https://github.com/hey-monster/leetcode/issues/174)|中等|哈希、uthash(继续做 ------------------------------------------------------------------->>>>>>>>>>)
 1438|[绝对差不超过限制的最长连续子数组](https://github.com/hey-monster/leetcode/issues/35)|中等
 1469|[寻找所有的独生节点](https://github.com/hey-monster/leetcode/issues/139)|简单|深度、广度
 1535|[Find the Winner of an Array Game](https://github.com/hey-monster/leetcode/issues/31)|中等
