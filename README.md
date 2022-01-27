@@ -53,8 +53,9 @@ one question one day <br>
 0122|[买卖股票的最佳时机 II](https://github.com/hey-monster/leetcode/issues/86)|简单|动态规划、注意转换方程式
 0128|[最长连续序列](https://github.com/hey-monster/leetcode/issues/166)|中等|hash + 并查集
 0136|[只出现一次的数字](https://github.com/hey-monster/leetcode/issues/124)|简单|位运算、异或
-0146|[LRU 缓存机制](https://github.com/hey-monster/leetcode/issues/159)|中等|uthash、数据结构设计
 0141|[环形链表](https://github.com/hey-monster/leetcode/issues/107)|简单|链表、双指针
+0146|[LRU 缓存机制](https://github.com/hey-monster/leetcode/issues/159)|中等|uthash、数据结构设计
+0148|[排序链表](https://github.com/hey-monster/leetcode/issues/182)|中等|链表排序、归并
 0149|[直线上最多的点数](https://github.com/hey-monster/leetcode/issues/97)|困难|循环、最大公约数、斜率
 0155|[最小栈](https://github.com/hey-monster/leetcode/issues/181)|简单|辅助栈
 0159|[至多包含两个不同字符的最长子串](https://github.com/hey-monster/leetcode/issues/132)|中等|滑动窗口
