@@ -85,13 +85,14 @@ one question one day <br>
 0286|[墙与门](https://github.com/hey-monster/leetcode/issues/137)|中等|广度优先搜索
 0287|[寻找重复数](https://github.com/hey-monster/leetcode/issues/130)|中等|双指针、快慢指针
 0292|[Nim 游戏](https://github.com/hey-monster/leetcode/issues/167)|简单|数学推理
-0300|[最长递增子序列](https://github.com/hey-monster/leetcode/issues/49)|中等|动态规划、贪心 + 二分查找？
+0300|[最长递增子序列](https://github.com/hey-monster/leetcode/issues/49)|中等|动态规划、贪心 + 二分查找
 0309|[最佳买卖股票时机含冷冻期](https://github.com/hey-monster/leetcode/issues/169)|中等|动态规划
 0325|[和等于 k 的最长子数组长度](https://github.com/hey-monster/leetcode/issues/164)|中等|前缀和 + hash
 0340|[至多包含 K 个不同字符的最长子串](https://github.com/hey-monster/leetcode/issues/133)|中等|滑动窗口
 0342|[4的幂](https://github.com/hey-monster/leetcode/issues/76)|简单|位运算
 0344|[Reverse String](https://github.com/hey-monster/leetcode/issues/26)|简单
 0350|[两个数组的交集 II](https://github.com/hey-monster/leetcode/issues/184)|简单|哈希、双指针、排序
+0378|[有序矩阵中第 K 小的元素](https://github.com/hey-monster/leetcode/issues/185)|中等|二分法、归并排序？
 0394|[字符串解码](https://github.com/hey-monster/leetcode/issues/153)|中等|栈、递归、字符串
 0403|[青蛙过河](https://github.com/hey-monster/leetcode/issues/50)|困难|动态规划，其他方法？
 0417|[太平洋大西洋水流问题](https://github.com/hey-monster/leetcode/issues/138)|中等|深度优先搜索、广度没做？
