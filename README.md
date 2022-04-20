@@ -91,6 +91,7 @@ one question one day <br>
 0340|[至多包含 K 个不同字符的最长子串](https://github.com/hey-monster/leetcode/issues/133)|中等|滑动窗口
 0342|[4的幂](https://github.com/hey-monster/leetcode/issues/76)|简单|位运算
 0344|[Reverse String](https://github.com/hey-monster/leetcode/issues/26)|简单
+0350|[两个数组的交集 II](https://github.com/hey-monster/leetcode/issues/184)|简单|哈希、双指针、排序
 0394|[字符串解码](https://github.com/hey-monster/leetcode/issues/153)|中等|栈、递归、字符串
 0403|[青蛙过河](https://github.com/hey-monster/leetcode/issues/50)|困难|动态规划，其他方法？
 0417|[太平洋大西洋水流问题](https://github.com/hey-monster/leetcode/issues/138)|中等|深度优先搜索、广度没做？
