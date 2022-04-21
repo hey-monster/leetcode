@@ -88,6 +88,7 @@ one question one day <br>
 0292|[Nim 游戏](https://github.com/hey-monster/leetcode/issues/167)|简单|数学推理
 0300|[最长递增子序列](https://github.com/hey-monster/leetcode/issues/49)|中等|动态规划、贪心 + 二分查找
 0309|[最佳买卖股票时机含冷冻期](https://github.com/hey-monster/leetcode/issues/169)|中等|动态规划
+0315|[计算右侧小于当前元素的个数](https://github.com/hey-monster/leetcode/issues/187)|困难|离散化树状数组、归并排序
 0325|[和等于 k 的最长子数组长度](https://github.com/hey-monster/leetcode/issues/164)|中等|前缀和 + hash
 0340|[至多包含 K 个不同字符的最长子串](https://github.com/hey-monster/leetcode/issues/133)|中等|滑动窗口
 0342|[4的幂](https://github.com/hey-monster/leetcode/issues/76)|简单|位运算
