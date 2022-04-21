@@ -7,7 +7,7 @@ one question one day <br>
 0001|[Two Sum](https://github.com/hey-monster/leetcode/issues/38)|简单|哈希表
 0002|[Add Two Numbers](https://github.com/hey-monster/leetcode/blob/master/code/0002.Add%20Two%20Numbers.cpp)|中等
 0003|[无重复字符的最长子串](https://github.com/hey-monster/leetcode/issues/3)|中等|滑动窗口、哈希
-0004|[寻找两个正序数组的中位数](https://github.com/hey-monster/leetcode/issues/70)|困难|未完成
+0004|[寻找两个正序数组的中位数](https://github.com/hey-monster/leetcode/issues/70)|困难|二分法
 0005|[Longest Palindromic Substring](https://github.com/hey-monster/leetcode/issues/8)|中等
 0006|[ZigZag Conversion](https://github.com/hey-monster/leetcode/issues/9)|中等
 0007|[Reverse Integer](https://github.com/hey-monster/leetcode/issues/5)|简单
