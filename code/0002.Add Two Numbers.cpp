@@ -55,3 +55,56 @@ public:
         return dummy->next;
     }
 };
+
+[C]
+第二次做
+```
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     struct ListNode *next;
+ * };
+ */
+
+struct ListNode* addTwoNumbers(struct ListNode* l1, struct ListNode* l2){
+    struct ListNode* head = (struct ListNode*)malloc(sizeof(struct ListNode));
+    head->val = -1;
+    head->next = NULL;
+    struct ListNode* ret = head;
+    struct ListNode* tmp1 = l1;
+    struct ListNode* tmp2 = l2;
+    int out = 0;
+    while(tmp1 != NULL || tmp2 != NULL){
+        int sum = 0;
+        if(tmp1 != NULL){
+            sum += tmp1->val;
+            tmp1 = tmp1->next;
+        }
+        if(tmp2 != NULL){
+            sum += tmp2->val;
+            tmp2 = tmp2->next;
+        }
+        sum += out;
+        if(sum > 9){
+            sum = sum % 10;
+            out = 1;
+        }else{
+            out = 0;
+        }
+        struct ListNode* cur = (struct ListNode*)malloc(sizeof(struct ListNode));
+        cur->val = sum;
+        cur->next = NULL;
+        head->next = cur;
+        head = head->next;
+    }
+    if(out != 0){
+        struct ListNode* cur = (struct ListNode*)malloc(sizeof(struct ListNode));
+        cur->next = NULL;
+        cur->val = 1;
+        head->next = cur;
+        head = head->next;
+    }
+    return ret->next;
+}
+```
