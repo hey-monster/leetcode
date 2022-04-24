@@ -58,6 +58,7 @@ one question one day <br>
 0136|[只出现一次的数字](https://github.com/hey-monster/leetcode/issues/124)|简单|位运算、异或
 0138|[复制带随机指针的链表](https://github.com/hey-monster/leetcode/issues/190)|中等|回溯+哈希、迭代
 0141|[环形链表](https://github.com/hey-monster/leetcode/issues/107)|简单|链表、双指针
+0142|[环形链表II](https://github.com/hey-monster/leetcode/issues/191)|中等|链表、双指针
 0146|[LRU 缓存机制](https://github.com/hey-monster/leetcode/issues/159)|中等|uthash、数据结构设计
 0148|[排序链表](https://github.com/hey-monster/leetcode/issues/182)|中等|链表排序、归并
 0149|[直线上最多的点数](https://github.com/hey-monster/leetcode/issues/97)|困难|循环、最大公约数、斜率
