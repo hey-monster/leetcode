@@ -80,6 +80,7 @@ one question one day <br>
 0217|[存在重复元素](https://github.com/hey-monster/leetcode/issues/180)|简单|哈希、排序
 0230|[二叉搜索树中第K小的元素](https://github.com/hey-monster/leetcode/issues/179)|中等|链表、二叉搜索树
 0231|[2 的幂](https://github.com/hey-monster/leetcode/issues/122)|简单|位运算、递归
+0234|[回文链表](https://github.com/hey-monster/leetcode/issues/192)|简单|链表、递归遍历
 0235|[二叉搜索树的最近公共祖先](https://github.com/hey-monster/leetcode/issues/177)|简单|链表
 0236|[二叉树的最近公共祖先](https://github.com/hey-monster/leetcode/issues/178)|中等|链表、二叉搜索树
 0237|[删除链表中的节点](https://github.com/hey-monster/leetcode/issues/175)|简单|链表
