@@ -37,6 +37,7 @@ one question one day <br>
 0050|[powx-n](https://github.com/hey-monster/leetcode/issues/22)|中等
 0051|[N 皇后](https://github.com/hey-monster/leetcode/issues/154)|困难|递归、回溯、深度优先
 0053|[最大子序和](https://github.com/hey-monster/leetcode/issues/59)|简单|分治、动态规划
+0061|[旋转链表](https://github.com/hey-monster/leetcode/issues/196)|中等|链表、遍历
 0069|[x 的平方根](https://github.com/hey-monster/leetcode/issues/188)|简单|二分查找
 0070|[爬楼梯](https://github.com/hey-monster/leetcode/issues/25)|简单|动态规划、递归
 0071|[有效的括号](https://github.com/hey-monster/leetcode/issues/71)|简单|栈
