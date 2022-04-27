@@ -4,8 +4,8 @@ one question one day <br>
 ====
 序号|题目|难度|标签
 ---|:---|---|---:
-0001|[Two Sum](https://github.com/hey-monster/leetcode/issues/38)|简单|哈希表
-0002|[Add Two Numbers](https://github.com/hey-monster/leetcode/blob/master/code/0002.Add%20Two%20Numbers.cpp)|中等
+0001|[两数之和](https://github.com/hey-monster/leetcode/issues/38)|简单|哈希表
+0002|[两数相加](https://github.com/hey-monster/leetcode/issues/193)|中等|手写哈希表
 0003|[无重复字符的最长子串](https://github.com/hey-monster/leetcode/issues/3)|中等|滑动窗口、哈希
 0004|[寻找两个正序数组的中位数](https://github.com/hey-monster/leetcode/issues/70)|困难|二分法
 0005|[Longest Palindromic Substring](https://github.com/hey-monster/leetcode/issues/8)|中等
