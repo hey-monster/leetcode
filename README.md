@@ -20,6 +20,7 @@ one question one day <br>
 0015|[3Sum](https://github.com/hey-monster/leetcode/issues/19)|中等
 0017|[电话号码的字母组合](https://github.com/hey-monster/leetcode/issues/66)|中等|回溯算法、深度优先
 0019|[删除链表的倒数第 N 个结点](https://github.com/hey-monster/leetcode/issues/109)|中等|链表、快慢指针
+0020|[有效的括号](https://github.com/hey-monster/leetcode/issues/71)|简单|栈
 0021|[合并两个有序链表](https://github.com/hey-monster/leetcode/issues/72)|简单|递归、迭代
 0023|[合并K个升序链表](https://github.com/hey-monster/leetcode/issues/189)|困难|链表、归并、堆？
 0026|[删除有序数组中的重复项](https://github.com/hey-monster/leetcode/issues/64)|简单|双指针
