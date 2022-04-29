@@ -65,6 +65,7 @@ one question one day <br>
 0146|[LRU 缓存机制](https://github.com/hey-monster/leetcode/issues/159)|中等|uthash、数据结构设计
 0148|[排序链表](https://github.com/hey-monster/leetcode/issues/182)|中等|链表排序、归并
 0149|[直线上最多的点数](https://github.com/hey-monster/leetcode/issues/97)|困难|循环、最大公约数、斜率
+0150|[逆波兰表达式求值](https://github.com/hey-monster/leetcode/issues/198)|中等|栈
 0155|[最小栈](https://github.com/hey-monster/leetcode/issues/181)|简单|辅助栈
 0159|[至多包含两个不同字符的最长子串](https://github.com/hey-monster/leetcode/issues/132)|中等|滑动窗口
 0160|[相交链表](https://github.com/hey-monster/leetcode/issues/91)|简单|链表
