@@ -103,6 +103,7 @@ one question one day <br>
 0325|[和等于 k 的最长子数组长度](https://github.com/hey-monster/leetcode/issues/164)|中等|前缀和 + hash
 0328|[奇偶链表](https://github.com/hey-monster/leetcode/issues/195)|中等|链表
 0340|[至多包含 K 个不同字符的最长子串](https://github.com/hey-monster/leetcode/issues/133)|中等|滑动窗口
+0341|[扁平化嵌套列表迭代器](https://github.com/hey-monster/leetcode/issues/200)|中等|队列、递归
 0342|[4的幂](https://github.com/hey-monster/leetcode/issues/76)|简单|位运算
 0344|[Reverse String](https://github.com/hey-monster/leetcode/issues/26)|简单
 0350|[两个数组的交集 II](https://github.com/hey-monster/leetcode/issues/184)|简单|哈希、双指针、排序
