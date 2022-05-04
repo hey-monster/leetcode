@@ -108,6 +108,7 @@ one question one day <br>
 0344|[Reverse String](https://github.com/hey-monster/leetcode/issues/26)|简单
 0350|[两个数组的交集 II](https://github.com/hey-monster/leetcode/issues/184)|简单|哈希、双指针、排序
 0378|[有序矩阵中第 K 小的元素](https://github.com/hey-monster/leetcode/issues/185)|中等|二分法、归并排序？
+0387|[字符串中的第一个唯一字符](https://github.com/hey-monster/leetcode/issues/201)|简单|哈希+队列
 0394|[字符串解码](https://github.com/hey-monster/leetcode/issues/153)|中等|栈、递归、字符串
 0403|[青蛙过河](https://github.com/hey-monster/leetcode/issues/50)|困难|动态规划，其他方法？
 0417|[太平洋大西洋水流问题](https://github.com/hey-monster/leetcode/issues/138)|中等|深度优先搜索、广度没做？
