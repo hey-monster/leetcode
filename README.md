@@ -49,6 +49,7 @@ one question one day <br>
 0084|[柱状图中最大的矩形](https://github.com/hey-monster/leetcode/issues/83)|困难|单调栈
 0088|[Merge Sorted Array](https://github.com/hey-monster/leetcode/issues/24)|简单
 94|[二叉树的中序遍历](https://github.com/hey-monster/leetcode/issues/197)|简单|递归、迭代
+98|[验证二叉搜索树](https://github.com/hey-monster/leetcode/issues/202)|中等|递归、中序遍历
 0100|[相同的树](https://github.com/hey-monster/leetcode/issues/67)|简单
 0101|[Symmetric Tree](https://github.com/hey-monster/leetcode/issues/10)|简单
 0104|[二叉树的最大深度](https://github.com/hey-monster/leetcode/issues/65)|简单|深度优先
