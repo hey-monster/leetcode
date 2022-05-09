@@ -55,6 +55,8 @@ one question one day <br>
 0102|[二叉树的层序遍历](https://github.com/hey-monster/leetcode/issues/203)|中等|树、广度+队列
 0103|[二叉树的锯齿形层序遍历](https://github.com/hey-monster/leetcode/issues/204)|中等|树、广度+队列
 0104|[二叉树的最大深度](https://github.com/hey-monster/leetcode/issues/65)|简单|深度优先
+0105|[从前序与中序遍历序列构造二叉树](https://github.com/hey-monster/leetcode/issues/206)|中等|树、递归
+0108|[将有序数组转换为二叉搜索树](https://github.com/hey-monster/leetcode/issues/205)|简单|树、递归
 0113|[合并二叉树](https://github.com/hey-monster/leetcode/issues/113)|简单|深度、广度优先搜索
 0116|[填充每个节点的下一个右侧节点指针](https://github.com/hey-monster/leetcode/issues/114)|中等|层次遍历、深度、广度优先搜索
 0120|[三角形最小路径和](https://github.com/hey-monster/leetcode/issues/121)|中等|动态规划
