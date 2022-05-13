@@ -103,6 +103,7 @@ one question one day <br>
 0286|[墙与门](https://github.com/hey-monster/leetcode/issues/137)|中等|广度优先搜索
 0287|[寻找重复数](https://github.com/hey-monster/leetcode/issues/130)|中等|双指针、快慢指针
 0292|[Nim 游戏](https://github.com/hey-monster/leetcode/issues/167)|简单|数学推理
+0297|[二叉树的序列化与反序列化](https://github.com/hey-monster/leetcode/issues/209)|困难|树DFS\BFS、序列化与反序列化
 0300|[最长递增子序列](https://github.com/hey-monster/leetcode/issues/49)|中等|动态规划、贪心 + 二分查找
 0309|[最佳买卖股票时机含冷冻期](https://github.com/hey-monster/leetcode/issues/169)|中等|动态规划
 0315|[计算右侧小于当前元素的个数](https://github.com/hey-monster/leetcode/issues/187)|困难|离散化树状数组、归并排序
