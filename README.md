@@ -59,6 +59,7 @@ one question one day <br>
 0105|[从前序与中序遍历序列构造二叉树](https://github.com/hey-monster/leetcode/issues/206)|中等|树、递归
 0108|[将有序数组转换为二叉搜索树](https://github.com/hey-monster/leetcode/issues/205)|简单|树、递归
 0113|[合并二叉树](https://github.com/hey-monster/leetcode/issues/113)|简单|深度、广度优先搜索
+0114|[二叉树展开为链表](https://github.com/hey-monster/leetcode/issues/212)|中等|树DFS、迭代、前驱节点
 0116|[填充每个节点的下一个右侧节点指针](https://github.com/hey-monster/leetcode/issues/114)|中等|层次遍历、深度、广度优先搜索
 0120|[三角形最小路径和](https://github.com/hey-monster/leetcode/issues/121)|中等|动态规划
 0121|[买卖股票的最佳时机](https://github.com/hey-monster/leetcode/issues/80)|简单|动态规划
@@ -69,6 +70,7 @@ one question one day <br>
 0138|[复制带随机指针的链表](https://github.com/hey-monster/leetcode/issues/190)|中等|回溯+哈希、迭代
 0141|[环形链表](https://github.com/hey-monster/leetcode/issues/107)|简单|链表、双指针
 0142|[环形链表II](https://github.com/hey-monster/leetcode/issues/191)|中等|链表、双指针
+0144|[二叉树的前序遍历](https://github.com/hey-monster/leetcode/issues/211)|中等|树DFS、BFS
 0146|[LRU 缓存机制](https://github.com/hey-monster/leetcode/issues/159)|中等|uthash、数据结构设计
 0148|[排序链表](https://github.com/hey-monster/leetcode/issues/182)|中等|链表排序、归并
 0149|[直线上最多的点数](https://github.com/hey-monster/leetcode/issues/97)|困难|循环、最大公约数、斜率
