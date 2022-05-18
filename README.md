@@ -118,6 +118,7 @@ one question one day <br>
 0341|[扁平化嵌套列表迭代器](https://github.com/hey-monster/leetcode/issues/200)|中等|队列、递归
 0342|[4的幂](https://github.com/hey-monster/leetcode/issues/76)|简单|位运算
 0344|[Reverse String](https://github.com/hey-monster/leetcode/issues/26)|简单
+0347|[前 K 个高频元素](https://github.com/hey-monster/leetcode/issues/216)|中等|优先队列、uthash\哈希
 0350|[两个数组的交集 II](https://github.com/hey-monster/leetcode/issues/184)|简单|哈希、双指针、排序
 0378|[有序矩阵中第 K 小的元素](https://github.com/hey-monster/leetcode/issues/185)|中等|二分法、归并排序？
 0387|[字符串中的第一个唯一字符](https://github.com/hey-monster/leetcode/issues/201)|简单|哈希+队列
