@@ -168,6 +168,7 @@ one question one day <br>
 0867|[Transpose Matrix](https://github.com/hey-monster/leetcode/issues/27)|简单
 0875|[爱吃香蕉的珂珂](https://github.com/hey-monster/leetcode/issues/160)|中等|二分法
 0877|[石子游戏](https://github.com/hey-monster/leetcode/issues/96)|中等|动态规划
+912|[排序数组](https://github.com/hey-monster/leetcode/issues/218)|简单|10个排序算法
 0934|[最短的桥](https://github.com/hey-monster/leetcode/issues/90)|中等|DFS + BFS
 0959|[由斜杠划分区域](https://github.com/hey-monster/leetcode/issues/36)|中等|并查集
 0977|[有序数组的平方](https://github.com/hey-monster/leetcode/issues/28)|简单
